@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/migrations/00001_create_tables.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/migrations/00002_seed_users.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/migrations/00003_seed_friends.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/migrations/00004_create_materialized_views.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/migrations/refresh_materialized_views.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/requests/list_cities.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/requests/top_city_users.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/requests/top_friends.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/requests/top_users.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/requests/user_rating.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/requests/user_rating_param.sql" dialect="PostgreSQL" />
+  </component>
+</project>
