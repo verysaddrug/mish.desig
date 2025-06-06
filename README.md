@@ -46,5 +46,3 @@
 ### Ускорение запросов
 Выполнить SQL-запросы:
 - `/migrations/refresh_materialized_views.sql`
-- `VACUUM ANALYZE users;`
-- `VACUUM ANALYZE friends;` 
